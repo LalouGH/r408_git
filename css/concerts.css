@@ -1,0 +1,38 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+}
+
+#logo{
+    height: 70px;
+}
+
+header {
+    z-index: 1000;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.container{
+    margin: auto;
+    margin-top: 130px;
+}
+
+h1{
+    margin-bottom: 70px;
+}
+
+.row{
+    margin-bottom: 50px;
+}
