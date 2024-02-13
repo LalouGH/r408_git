@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    height: 70px;
+}
+
+header {
+    z-index: 1000;
+    background-color: #e5e5e5;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.navbar-brand{
+    margin-left: 40px;
+}
+
+.navbar-brand:hover{
+    transform: scale(1.1);
+}
+
+.nav-link{
+    color: #000;
+    margin-left: 30px;
+}
+
+.nav-link:hover{
+    color: #ff0000;
+}
+
+.container{
+    margin-top: 130px;
+    text-align: center;
+}
+
+h2{
+    color: #ff0000;
+}
