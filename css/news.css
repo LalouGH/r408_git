@@ -45,3 +45,7 @@ h2{
 /* h2{
     margin-top: 10px;
 } */
+
+img:hover{
+    transform: scale(1.1);
+}
