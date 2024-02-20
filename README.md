@@ -29,4 +29,6 @@ Le groupe est composé de Lalou ADLAOUI (moi-même, également le créateur de c
 
 <h3>Difficultés rencontrées (avec git ou autres) et les solutions mise en oeuvres</h3>
 
-Une fois github installé et configuré, nous n'avons pas vraiment rencontré de problème. Les problèmes sont venu lorsque nous avons du nous connecter sur d'autre ordinateurs, difficultés au niveau de la configuration et du clonage.
+<p>Une fois GitHub installé et configuré, nous n'avons pas vraiment rencontré de problème. Les problèmes sont venu lorsque nous avons dû nous connecter sur d'autre ordinateurs, difficultés au niveau de la configuration des utilisateurs et du clonage, causant certains commits, qui ont était fait par d'autres comptes (par exemple : "Kyoxi" corresponds à des commits effectués par Camille et Léa)
+
+De plus, des conflits d'éléments dans le code ont pu survenir lors du développement, par exemple, des titres différents qui se retrouvent au même endroit dans le code</p>
